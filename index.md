@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI_JIT
+title: (-v-)
 ---
-## 近期
+## 即刻
 
 {% for post in site.posts limit:5 %}
 
@@ -16,7 +16,7 @@ title: AI_JIT
 
 {% endfor %}
 
-- [更多…](/archive)
+- [出发…](/archive)
 
 {% for tag in site.index.showtag %}
 
