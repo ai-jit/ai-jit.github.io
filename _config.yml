@@ -176,7 +176,7 @@ sidebar:
     enable: true
     img: //www.gravatar.com/avatar/399ba8a8d050e8bd79a9bc93d552c618?d=wavatar&s=600 # 头像的地址
     info: <br/>人工智能<br/>基础理论<br/>工具工程<br/>应用发展<br/>诗和远方 # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=5817888&auto=0&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=0&id=5817888&auto=1&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
